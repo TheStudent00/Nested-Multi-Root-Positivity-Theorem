@@ -25,4 +25,4 @@ See `SympyAPI.lean`. When the Lean compiler encounters the `verify_sympy_limit` 
 
 ## Requirements
 - **Lean 4** 
-- **Python 3** with `sympy` installed (required for the Live API Hybrid Proof System)
+- **Python 3** with `sympy` installed (required for the Live Hybrid Proof System)
